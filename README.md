@@ -1,2 +1,3 @@
 # Global-Economic-Segmentation-using-Hierarchical-Clustering-for-Policy-Making
 This project applies Hierarchical Agglomerative Clustering to segment countries based on a variety of socio-economic indicators. The primary goal is to identify distinct groups of nations with similar economic and social profiles, providing a nuanced, data-driven foundation for effective international policy-making, aid distribution.
+[Global_Economic_Segmentation_using_Hierarchical_Clustering_for_Policy_Making.pdf](https://github.com/user-attachments/files/25787672/Global_Economic_Segmentation_using_Hierarchical_Clustering_for_Policy_Making.pdf)
